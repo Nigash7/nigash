@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nigash7.github.io/nigash/sitemap.xml
